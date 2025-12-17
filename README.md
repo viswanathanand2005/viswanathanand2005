@@ -23,6 +23,6 @@ I'm a Computer Science student passionate about backend development, machine lea
 ---
 
 ## 📫 How to reach me
-- Email: [chviswanathanand2@gmail.com](mailto:chviswanath2@gmail.com)  
+- Email: [chviswanathanand2@gmail.com](mailto:viswanathanand2005@gmail.com)  
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/viswanath-anand-1429372b4)
 
