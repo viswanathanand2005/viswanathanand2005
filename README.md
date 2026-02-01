@@ -17,7 +17,8 @@ I'm a Computer Science student passionate about backend development, machine lea
 - **Languages:** Java, Python, JavaScript  
 - **Frameworks:** React, Express.js  
 - **Tools:** Git, MySQL, Oracle SQL  
-- **Machine Learning:** Scikit-learn, Pandas, NumPy,TensorFlow  
+- **Machine Learning:** Scikit-learn, Pandas, NumPy,TensorFlow
+- **Deployment:** Docker, GitHub Actions, MLflow
 - **Other:** Data Structures, Algorithms, REST APIs
 
 ---
