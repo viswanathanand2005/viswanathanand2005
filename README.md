@@ -6,24 +6,24 @@ I'm a Computer Science student passionate about backend development, machine lea
 ---
 
 ## 🌱 Interests
-- Backend Development
-- Data Structures & Algorithms  
 - Machine Learning & AI
 - Data Science
+- Backend Development
+- Data Structures & Algorithms  
 - Problem Solving  
 
 ---
 ## 💡 Skills
-- **Languages:** Java, Python, JavaScript  
+- **Languages:**  Python,Java, JavaScript  
 - **Frameworks:** React, Express.js  
 - **Tools:** Git, MySQL, Oracle SQL  
-- **Machine Learning:** Scikit-learn, Pandas, NumPy,TensorFlow
+- **Machine Learning:** Scikit-learn, Pandas, NumPy,TensorFlow,Keras
 - **Deployment:** Docker, GitHub Actions, MLflow
 - **Other:** Data Structures, Algorithms, REST APIs
 
 ---
 
 ## 📫 How to reach me
-- Email: [chviswanathanand2@gmail.com](mailto:viswanathanand2005@gmail.com)  
+- Email: [viswanathanand2005@gmail.com](mailto:viswanathanand2005@gmail.com)  
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/viswanath-anand-1429372b4)
 
